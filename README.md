@@ -30,7 +30,7 @@ Développée en **Flutter**, elle allie sobriété, animations douces et interfa
 
 ## 📹 Démo vidéo
 
-[![Regarder la démo](https://img.youtube.com/vi/ID_YOUTUBE/0.jpg)](https://youtube.com/watch?v=ID_YOUTUBE)
+[![Regarder la démo](https://img.youtube.com/vi/ID_YOUTUBE/0.jpg)]([https://youtube.com/watch?v=ID_YOUTUBE](https://youtube.com/shorts/oKkrsriDdgU?feature=share))
 
 ---
 
