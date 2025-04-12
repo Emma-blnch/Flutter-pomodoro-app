@@ -24,7 +24,7 @@ Développée en **Flutter**, elle allie sobriété, animations douces et interfa
 
 | Écran principal | Menu des réglages |
 |-----------------|-------------------|
-| ![screenshot](assets/screenshots/main_ui.png) | ![settings](assets/screenshots/settings_ui.png) |
+| ![screenshot](assets/screenshots/main-ui.png) | ![settings](assets/screenshots/settings-ui.png) |
 
 ---
 
