@@ -1,16 +1,48 @@
-# pomodoro_app
+# ⏱️ Pomodoro App – Minimal Focus Timer
 
-A new Flutter project.
+Une application mobile simple et élégante pour booster ta concentration grâce à la méthode Pomodoro.  
+Développée en **Flutter**, elle allie sobriété, animations douces et interface personnalisable.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fonctionnalités
 
-A few resources to get you started if this is your first Flutter project:
+- 🔄 Démarrer / Mettre en pause d’un simple clic sur le cercle
+- 🔁 Sessions de travail et pauses en alternance
+- 🔊 Indication visuelle de l’état (WORK / PAUSE)
+- 💧 Animation subtile de halo apaisant
+- 🧮 Suivi des répétitions
+- ⚙️ Menu de réglages :
+  - Nombre de répétitions (1 à 100)
+  - Durée de travail (1 à 60 min)
+  - Durée de pause (1 à 60 min)
+- 🎨 Effet de texture discret pour une interface plus vivante
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Aperçu
+
+| Écran principal | Menu des réglages |
+|-----------------|-------------------|
+| ![screenshot](assets/screenshots/main_ui.png) | ![settings](assets/screenshots/settings_ui.png) |
+
+---
+
+## 📹 Démo vidéo
+
+[![Regarder la démo](https://img.youtube.com/vi/ID_YOUTUBE/0.jpg)](https://youtube.com/watch?v=ID_YOUTUBE)
+
+---
+
+## 🛠️ Tech utilisées
+
+- [Flutter 3.29](https://flutter.dev/)
+- Dart 3.7
+- VSCode
+
+---
+
+## 🙋‍♀️ À propos
+
+Développé en 48h dans le cadre d'une candidature à une alternance en développement mobile.  
+Curieuse, autonome et passionnée, je découvre Flutter et j’adore ça !
